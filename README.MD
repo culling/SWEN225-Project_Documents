@@ -27,6 +27,11 @@ Successfully created a text only implementation of a simplified Cluedo game, tak
 ## Assignment 2 - Cluedo Clone - A GOOEY Murder Mystery
 ### Description
 
-A joint project building off the previous assignment to add a GUI.
+A joint project building off the previous assignment to add a GUI. 
 
 ![Screenshot from image](docs/assignment2-screenshot-05.png)
+### Features
++ Shows full game information while playing
++ Contains menu bar for easy creation of a New Game or quitting
++ Displays Cards with the same images as on the board
++ Includes buttons and key listeners for navigation on the board
